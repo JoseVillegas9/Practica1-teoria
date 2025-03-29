@@ -1,0 +1,15 @@
+@model Practica1_teoria.Models.BoletaModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Boleta Generada";
+}
+
+<h2>Boleta Generada</h2>
+
+<p><strong>Nombre:</strong> @Model.Nombre</p>
+<p><strong>DNI:</strong> @Model.DNI</p>
+<p><strong>Monto:</strong> @Model.Monto @Model.Moneda</p>
+<p><strong>Fecha:</strong> @Model.Fecha.ToString("dd/MM/yyyy HH:mm")</p>
+
+<a asp-controller="Home" asp-action="Index">Volver</a>

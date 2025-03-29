@@ -1,0 +1,35 @@
+@model Practica1_teoria.Models.BoletaModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Generar Boleta";
+}
+
+<h2>Generar Boleta</h2>
+
+<form asp-controller="Boleta" asp-action="Generar" method="post">
+    <div>
+        <label>Nombre:</label>
+        <input type="text" name="Nombre" required />
+    </div>
+
+    <div>
+        <label>DNI:</label>
+        <input type="text" name="DNI" required />
+    </div>
+
+    <div>
+        <label>Monto:</label>
+        <input type="number" name="Monto" step="0.01" required />
+    </div>
+
+    <div>
+        <label>Moneda:</label>
+        <select name="Moneda">
+            <option value="BRL">Real BrasileÃ±o (BRL)</option>
+            <option value="PEN">Sol Peruano (PEN)</option>
+        </select>
+    </div>
+
+    <button type="submit">Generar Boleta</button>
+</form>

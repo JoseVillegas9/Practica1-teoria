@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Practica1-teoria.Models
+namespace Practica1teoria.Models
 {
     public class BoletaModel
     {

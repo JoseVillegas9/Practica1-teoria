@@ -5,9 +5,9 @@ using System;
  using System.Threading.Tasks;
  using Microsoft.AspNetCore.Mvc;
  using Microsoft.Extensions.Logging;
-using Practica1-teoria.Models;
+using Practica1teoria.Models;
 
-namespace Practica1-teoria.Controllers
+namespace Practica1teoria.Controllers
 {
     
     public class BoletaController : Controller

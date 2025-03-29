@@ -1,11 +1,3 @@
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\appsettings.json
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.staticwebassets.runtime.json
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.exe
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.deps.json
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.runtimeconfig.json
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.dll
-C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.pdb
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\Practica1-teoria.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\Practica1-teoria.AssemblyInfoInputs.cache
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\Practica1-teoria.AssemblyInfo.cs
@@ -14,6 +6,14 @@ C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\Practica1-teoria.MvcAppl
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\Practica1-teoria.RazorAssemblyInfo.cache
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\Practica1-teoria.RazorAssemblyInfo.cs
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\Practica1-teoria.sourcelink.json
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\appsettings.json
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.staticwebassets.runtime.json
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.exe
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.deps.json
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.runtimeconfig.json
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.dll
+C:\Users\USER\Desktop\Practica1-teoria\bin\Debug\net8.0\Practica1-teoria.pdb
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\USER\Desktop\Practica1-teoria\obj\Debug\net8.0\staticwebassets\msbuild.Practica1-teoria.Microsoft.AspNetCore.StaticWebAssets.props

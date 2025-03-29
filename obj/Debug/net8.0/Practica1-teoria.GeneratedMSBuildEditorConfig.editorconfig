@@ -18,13 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\USER\Desktop\Practica1-teoria
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/USER/Desktop/Practica1-teoria/Views/Boleta/BoletaGenerada.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRhXEJvbGV0YUdlbmVyYWRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/USER/Desktop/Practica1-teoria/Views/Boleta/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9sZXRhXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/USER/Desktop/Practica1-teoria/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
